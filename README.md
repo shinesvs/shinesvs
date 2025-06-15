@@ -4,7 +4,7 @@
 ⚡ Passionate about Embedded Systems, Firmware, and Edge AI  
 
 🔎 I'm always exploring **new technologies**, whether it's RISC-V-based hardware or edge ML models.  
-I love working in cross-functional environments where software meets hardware.
+    I love working in cross-functional environments where software meets hardware.
 
 ---
 ##  Highlighted Projects
@@ -19,11 +19,12 @@ I love working in cross-functional environments where software meets hardware.
   Explored bare-metal features of the RP2040 microcontroller, testing UART, SPI, I2C, PWM, and ADC through register-level programming.
 
 - **Reservoir Computing for Edge AI**  
-  Created a lightweight time-series prediction model using ReservoirPy and AdderNet; reduced compute load by ~35%.
+  Integrated AdderNet into a ReservoirPy-based time-series prediction model, enabling ~35% reduction in compute load and improving efficiency for edge AI applications.
 
 
-📫 Feel free to connect:  
-[LinkedIn](https://linkedin.com/in/shine-v-sam)
+📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shine-v-sam)
+
+I'm actively looking for opportunities in embedded systems, firmware development, and edge AI.  
 
 ---
 

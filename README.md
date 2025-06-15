@@ -2,9 +2,9 @@
 
 🎓 Graduate student in Electrical & Computer Engineering at Binghamton University  
 ⚡ Passionate about Embedded Systems, Firmware, and Edge AI  
-
+🔎 I'm always exploring **new technologies**, whether it's RISC-V-based hardware, or edge ML models. I love working in cross-functional environments where software meets hardware.
 ---
-## 🧪 Highlighted Projects
+##  Highlighted Projects
 
 - **Secure Embedded Sensing System**  
   Developed a multi-node sensor network using Raspberry Pi and MQTT with TLS encryption; integrated TinyML for edge anomaly detection.
@@ -13,17 +13,17 @@
   Built C/C++ firmware for real-time voltage/current monitoring via I2C/SPI/UART; published diagnostics over MQTT with <5% error.
 
 - **Bare-Metal Driver Development on RP2040**  
-  Wrote and tested low-level drivers for serial communication and ADC; debugged using hardware tools and explored bootloader behavior.
+  Explored bare-metal features of the RP2040 microcontroller, testing UART, SPI, I2C, PWM, and ADC through register-level programming.
 
 - **Reservoir Computing for Edge AI**  
   Created a lightweight time-series prediction model using ReservoirPy and AdderNet; reduced compute load by ~35%.
 
 ## 🔎 What Drives Me
 
-I'm always exploring **new technologies**, whether it's RISC-V-based hardware, RTOS tuning, or edge ML models. I thrive in cross-functional environments where software meets hardware.
+I'm always exploring **new technologies**, whether it's RISC-V-based hardware, or edge ML models. I love working in cross-functional environments where software meets hardware.
 
 📫 Feel free to connect:  
-[LinkedIn](https://linkedin.com/in/shine-v-sam) | [GitHub](https://github.com/shinesvs)
+[LinkedIn](https://linkedin.com/in/shine-v-sam)
 
 ---
 

@@ -1,8 +1,11 @@
-#  Hi, I'm Shine Vattuparampil Sam
+# 👋 Hi, I'm Shine Vattuparampil Sam
 
 🎓 Graduate student in Electrical & Computer Engineering at Binghamton University  
 ⚡ Passionate about Embedded Systems, Firmware, and Edge AI  
-🔎 I'm always exploring **new technologies**, whether it's RISC-V-based hardware, or edge ML models. I love working in cross-functional environments where software meets hardware.
+
+🔎 I'm always exploring **new technologies**, whether it's RISC-V-based hardware or edge ML models.  
+I love working in cross-functional environments where software meets hardware.
+
 ---
 ##  Highlighted Projects
 
@@ -18,9 +21,6 @@
 - **Reservoir Computing for Edge AI**  
   Created a lightweight time-series prediction model using ReservoirPy and AdderNet; reduced compute load by ~35%.
 
-## 🔎 What Drives Me
-
-I'm always exploring **new technologies**, whether it's RISC-V-based hardware, or edge ML models. I love working in cross-functional environments where software meets hardware.
 
 📫 Feel free to connect:  
 [LinkedIn](https://linkedin.com/in/shine-v-sam)

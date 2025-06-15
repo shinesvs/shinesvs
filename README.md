@@ -1,29 +1,22 @@
-# 👋 Hi, I'm Shine Vattuparampil Sam
+#  Hi, I'm Shine Vattuparampil Sam
 
 🎓 Graduate student in Electrical & Computer Engineering at Binghamton University  
 ⚡ Passionate about Embedded Systems, Firmware, and Edge AI  
-🔧 Always experimenting with low-level hardware, real-time systems, and adaptive ML models
 
 ---
+## 🧪 Highlighted Projects
 
-## 🛠️ Key Projects
+- **Secure Embedded Sensing System**  
+  Developed a multi-node sensor network using Raspberry Pi and MQTT with TLS encryption; integrated TinyML for edge anomaly detection.
 
-- **🔐 Secure Embedded Sensing System**  
-  Real-time multi-node sensor network using Raspberry Pi & MQTT with TLS; built low-level C drivers and integrated TinyML for anomaly detection.
+- **Battery Management System (ESP32)**  
+  Built C/C++ firmware for real-time voltage/current monitoring via I2C/SPI/UART; published diagnostics over MQTT with <5% error.
 
-- **🔋 Battery Management System (ESP32)**  
-  Developed firmware to monitor voltage, current, and temperature over I2C/SPI/UART; enabled real-time SoC/TTE prediction via MQTT.
+- **Bare-Metal Driver Development on RP2040**  
+  Wrote and tested low-level drivers for serial communication and ADC; debugged using hardware tools and explored bootloader behavior.
 
-- **🧠 Reservoir Computing on Edge Devices**  
-  Designed efficient time-series prediction pipelines with AdderNet-enhanced models for wearable embedded AI platforms.
-
-- **🤖 Bare-Metal on RP2040 (Pico2)**  
-  Wrote drivers for UART, SPI, I2C, and ADC; performed low-level debugging using logic analyzers and explored bootloader behavior.
-
-- **🛡️ Network Intrusion Detection System**  
-  Built a lightweight Python pipeline and trained a RandomForest model for real-time threat detection on network traffic.
-
----
+- **Reservoir Computing for Edge AI**  
+  Created a lightweight time-series prediction model using ReservoirPy and AdderNet; reduced compute load by ~35%.
 
 ## 🔎 What Drives Me
 

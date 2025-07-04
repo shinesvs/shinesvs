@@ -1,32 +1,30 @@
 # 👋 Hi, I'm Shine Vattuparampil Sam
 
-🎓 Graduate student in Electrical & Computer Engineering at Binghamton University  
-⚡ Passionate about Embedded Systems, Firmware, and Edge AI  
+🎓 MS in Electrical & Computer Engineering – Binghamton University  
+⚙️ Focused on Embedded Systems, Firmware, and Edge AI  
 
-🔎 I'm always exploring **new technologies**, whether it's RISC-V-based hardware or edge ML models.  
-    I love working in cross-functional environments where software meets hardware.
+🔍 I enjoy working at the intersection of hardware and software — from RISC-V and microcontrollers to TinyML and real-time systems.
 
 ---
-##  Highlighted Projects
+
+## 🔧 Highlighted Projects
 
 - **Secure Embedded Sensing System**  
-  Developed a multi-node sensor network using Raspberry Pi and MQTT with TLS encryption; integrated TinyML for edge anomaly detection.
+  Raspberry Pi network with TLS-secured MQTT and TinyML-based anomaly detection
 
 - **Battery Management System (ESP32)**  
-  Built C/C++ firmware for real-time voltage/current monitoring via I2C/SPI/UART; published diagnostics over MQTT with <5% error.
+  C/C++ firmware for real-time voltage/current monitoring; diagnostics published over MQTT with <5% error
 
-- **Bare-Metal Driver Development on RP2040**  
-  Explored bare-metal features of the RP2040 microcontroller, testing UART, SPI, I2C, PWM, and ADC through register-level programming.
+- **Bare-Metal Drivers (RP2040)**  
+  Register-level C code for UART, SPI, I2C, PWM, and ADC
 
 - **Reservoir Computing for Edge AI**  
-  Integrated AdderNet into a ReservoirPy-based time-series prediction model, enabling ~35% reduction in compute load and improving efficiency for edge AI applications.
-
-
-📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shine-v-sam)
-
-I'm actively looking for opportunities in embedded systems, firmware development, and edge AI.  
+  AdderNet-enhanced model with ~35% reduction in compute load for edge devices
 
 ---
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/shine-v-sam)
+
 
 
 

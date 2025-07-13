@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Highlighted Projects
+## 🔧 Projects
 
 - **Secure Embedded Sensing System**  
   Raspberry Pi network with TLS-secured MQTT and TinyML-based anomaly detection

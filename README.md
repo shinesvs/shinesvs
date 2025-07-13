@@ -2,8 +2,7 @@
 
 🎓 MS in Electrical & Computer Engineering – Binghamton University  
 ⚙️ Focused on Embedded Systems, Firmware, and Edge AI  
-
-🔍 I enjoy working at the intersection of hardware and software — from RISC-V and microcontrollers to TinyML and real-time systems.
+🔍 I enjoy working at the intersection of hardware and software- from RISC-V and microcontrollers to TinyML and real-time systems.
 
 ---
 
